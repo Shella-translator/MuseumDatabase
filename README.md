@@ -9,6 +9,9 @@
 					
 ## **Решение:**					
 Представлено в файлах:
+1. https://github.com/Shella-translator/MuseumDatabase/blob/main/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg
+2. https://github.com/Shella-translator/MuseumDatabase/blob/main/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.xlsx
+3. https://github.com/Shella-translator/MuseumDatabase/tree/main/%D0%A4%D0%BE%D1%82%D0%BE%D0%BE%D1%82%D1%87%D0%B5%D1%82
 
 ## **Сценарий использования базы данных музея:**
 
